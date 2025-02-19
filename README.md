@@ -1,4 +1,5 @@
-**Scenario **
+**Scenerio**
+
 MALIK Financial Services (MFS) is a local company that provides small business loans. Last year, loan 
 applications increased by over 200%, largely because of a concerted online campaign to establish a 
 strong digital presence. Almost all loan applications and business leads are generated from search 
@@ -28,5 +29,6 @@ customer service and support personnel.
 An in-house database administrator (DBA) was able to compile a PDF of past applications which the 
 loans team are hoping to map to previous loan approval outcomes. 
 The two files provided by the DBA are: 
-• A file in PDF format called ‘MALIK_Loans_Database_Table.pdf’
-• An Excel file, called ‘MALIK Loans Data.xlsx’
+
+  • A file in PDF format called ‘MALIK_Loans_Database_Table.pdf’
+  • An Excel file, called ‘MALIK Loans Data.xlsx’
